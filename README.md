@@ -1,24 +1,34 @@
 ♟️ Chess Game
-A web-based Chess game built with [insert your tech stack, e.g., HTML, CSS, JavaScript, React, etc.]. This project allows two players to play a full game of chess with all standard rules implemented, including check, checkmate, castling, en passant, and pawn promotion.
+A basic web-based Chess game that allows two players to play against each other. The game follows standard chess rules and has a simple, clean design. Built for fun and to practice logic and web development skills.
 
-🔹 Features
-Full implementation of chess rules
+🔗 Live Demo: https://your-username.github.io/chess-game/
+(Replace with your actual live link)
 
-Interactive and responsive chessboard UI
+✅ Features
+Two-player chess game
 
-Move validation and turn-based play
+Standard rules: check, checkmate, stalemate
 
-Highlighting possible moves
+Highlight valid moves
 
-Game status updates (check, checkmate, stalemate)
+Restart game option
 
-Option to restart the game
+Responsive design for all devices
 
-Mobile-friendly design
+🛠 Built With
+HTML
 
-🛠️ Technologies Used
-HTML5 / CSS3
+CSS
 
-JavaScript / TypeScript (or React if used)
+JavaScript
 
-[Optional: Libraries like Chess.js, Chessboard.js, etc.]
+(Optional: Chess.js or Chessboard.js if used)
+
+📌 How to Play
+Open the Chess Game link
+
+Click on a piece to see its valid moves
+
+Play turn by turn with another player
+
+Refresh to start a new game
